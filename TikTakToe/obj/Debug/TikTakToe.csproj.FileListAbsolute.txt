@@ -1,0 +1,20 @@
+H:\Visual Studio 2022\Projects\TikTakToe\TikTakToe\bin\Debug\TikTakToe.exe.config
+H:\Visual Studio 2022\Projects\TikTakToe\TikTakToe\bin\Debug\TikTakToe.exe
+H:\Visual Studio 2022\Projects\TikTakToe\TikTakToe\bin\Debug\TikTakToe.pdb
+H:\Visual Studio 2022\Projects\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\TikTakToe\TikTakToe\obj\Debug\TikTakToe.Form1.resources
+H:\Visual Studio 2022\Projects\TikTakToe\TikTakToe\obj\Debug\TikTakToe.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\TikTakToe\TikTakToe\obj\Debug\TikTakToe.exe
+H:\Visual Studio 2022\Projects\TikTakToe\TikTakToe\obj\Debug\TikTakToe.pdb
+C:\Users\thiga\source\repos\TikTakToe\TikTakToe\bin\Debug\TikTakToe.exe.config
+C:\Users\thiga\source\repos\TikTakToe\TikTakToe\bin\Debug\TikTakToe.exe
+C:\Users\thiga\source\repos\TikTakToe\TikTakToe\bin\Debug\TikTakToe.pdb
+C:\Users\thiga\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csproj.AssemblyReference.cache
+C:\Users\thiga\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.Form1.resources
+C:\Users\thiga\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.Properties.Resources.resources
+C:\Users\thiga\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csproj.GenerateResource.cache
+C:\Users\thiga\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csproj.CoreCompileInputs.cache
+C:\Users\thiga\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.exe
+C:\Users\thiga\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.pdb

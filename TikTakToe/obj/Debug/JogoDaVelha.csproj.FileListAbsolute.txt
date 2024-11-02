@@ -1,0 +1,10 @@
+C:\Users\felli\Downloads\Jogo\TikTakToe\bin\Debug\Jogo_Da_Velha.exe.config
+C:\Users\felli\Downloads\Jogo\TikTakToe\bin\Debug\Jogo_Da_Velha.exe
+C:\Users\felli\Downloads\Jogo\TikTakToe\bin\Debug\Jogo_Da_Velha.pdb
+C:\Users\felli\Downloads\Jogo\TikTakToe\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\felli\Downloads\Jogo\TikTakToe\obj\Debug\TikTakToe.Form1.resources
+C:\Users\felli\Downloads\Jogo\TikTakToe\obj\Debug\Jogo_Da_Velha.Properties.Resources.resources
+C:\Users\felli\Downloads\Jogo\TikTakToe\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+C:\Users\felli\Downloads\Jogo\TikTakToe\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\felli\Downloads\Jogo\TikTakToe\obj\Debug\Jogo_Da_Velha.exe
+C:\Users\felli\Downloads\Jogo\TikTakToe\obj\Debug\Jogo_Da_Velha.pdb
